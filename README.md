@@ -45,7 +45,7 @@ To use jsDelivr:
    ```
    Example: 
    ```
-   https://cdn.jsdelivr.net/gh/clashhsalc/static@master/assets/cat.jpg
+   https://cdn.jsdelivr.net/gh/aryanwf/static@master/assets/cat.jpg
    ```
    Replace `username` with your GitHub username, `repository` with your repo name, `version` with the tag/branch/commit (use `master` for the latest version), and `file` with the path to your file.
 
@@ -62,7 +62,7 @@ To use Statically:
    ```
    Example:
    ```
-   https://cdn.statically.io/gh/clashhsalc/static/master/assets/cat.jpg
+   https://cdn.statically.io/gh/aryanwf/static/master/assets/cat.jpg
    ```
    Replace `username`, `repository`, `branch`, and `file` with your specific details.
 
@@ -86,8 +86,8 @@ Use this URL for live websites and production environments:
 
 Example:
 ```
-https://raw.githack.com/clashhsalc/static/commit-hash/assets/cat.jpg
-https://raw.githubusercontent.com/clashhsalc/static/14da886/assets/cat.jpg
+https://raw.githack.com/aryanwf/static/commit-hash/assets/cat.jpg
+https://raw.githubusercontent.com/aryanwf/static/14da886/assets/cat.jpg
 ```
 
 #### Development URL
@@ -99,7 +99,7 @@ Use this URL for testing and development:
 
 Example:
 ```
-https://raw.githack.com/clashhsalc/static/master/assets/cat.jpg
+https://raw.githack.com/aryanwf/static/master/assets/cat.jpg
 ```
 
 Note: Replace `commit-hash` in the production URL with the actual commit hash of your file. For the development URL, you can use the branch name (e.g., `master`).
@@ -110,23 +110,23 @@ Here's a comparison of how to access the same file (`assets/cat.jpg` in the `sta
 
 1. jsDelivr:
    ```
-   https://cdn.jsdelivr.net/gh/clashhsalc/static@master/assets/cat.jpg
+   https://cdn.jsdelivr.net/gh/aryanwf/static@master/assets/cat.jpg
    ```
 
 2. Statically:
    ```
-   https://cdn.statically.io/gh/clashhsalc/static/master/assets/cat.jpg
+   https://cdn.statically.io/gh/aryanwf/static/master/assets/cat.jpg
    ```
 
 3. GitHack (Production):
    ```
-   https://raw.githack.com/clashhsalc/static/commit-hash/assets/cat.jpg
+   https://raw.githack.com/aryanwf/static/commit-hash/assets/cat.jpg
    ```
    (Replace `commit-hash` with the actual commit hash)
 
 4. GitHack (Development):
    ```
-   https://raw.githack.com/clashhsalc/static/master/assets/cat.jpg
+   https://raw.githack.com/aryanwf/static/master/assets/cat.jpg
    ```
 
 ## Best Practices
